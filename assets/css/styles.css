@@ -918,7 +918,7 @@ img {
         grid-template-columns: .25fr 3fr;
     }
     .home_blob{
-        width: 180px;
+        width: 300px;
     }
    .skills_titles{
        font-size: var(--normal-font-size);
